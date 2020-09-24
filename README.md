@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dorotastaszczuk&hide=issues,contribs,prs&show_icons=true&count_private=true" /> 
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <img align="left" alt="Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorotastaszczuk&layout=compact&langs_count=10&hide=ruby"/> 
 
