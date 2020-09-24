@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Stats
+### Github Stats  
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dorotastaszczuk&hide=issues,contribs,prs&show_icons=true&count_private=true" />. 
+<br/>
 
-<img align="left" alt="Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorotastaszczuk&layout=compact&langs_count=10&hide=ruby"/>. 
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dorotastaszczuk&hide=issues,contribs,prs&show_icons=true&count_private=true" /> 
+
+<br />
+
+<img align="left" alt="Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorotastaszczuk&layout=compact&langs_count=10&hide=ruby"/> 
 
 
 
