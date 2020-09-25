@@ -1,8 +1,8 @@
 ## Hi there, I'm Dorota 👋  
 
-I'm a junior developer based in Warsaw, Poland. I graduated from two programming bootcamps and I continue to study on my own. I'm currently looking for new career opportunities.
+I'm a junior developer based in Warsaw, Poland. I graduated from two programming bootcamps and I continue to study on my own.
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on my portfolio and looking for new career opportunities
 
 <!--
 **DorotaStaszczuk/DorotaStaszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,6 +68,16 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorotastaszczuk&layout=compact&langs_count=10&hide=ruby"/> 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=dorotastaszczuk.dorotastaszczuk">
 
 
 
