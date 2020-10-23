@@ -3,8 +3,8 @@
 I'm a junior developer based in Warsaw, Poland. I graduated from two programming bootcamps and I continue to study on my own.
 
 - 🔭 I’m currently working on my portfolio and looking for new career opportunities
-- 🌱 I’m currently learning Adobe XD @ Adobe MAX 2020 Creativity Conference
-<img align="left" width="100px" alt="MAX" src="https://media.giphy.com/media/USP8vEaLaP2j7qbdOx/source.gif" />
+- 🌱 I’m currently learning Adobe XD 
+- ⚡ Fun fact: I am never bored
 
 <br/>
 
