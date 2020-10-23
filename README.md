@@ -6,9 +6,6 @@ I'm a junior developer based in Warsaw, Poland. I graduated from two programming
 - 🌱 I’m currently learning Adobe XD 
 - ⚡ Fun fact: I am never bored
 
-<br/>
-
-
 <!--
 **DorotaStaszczuk/DorotaStaszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
