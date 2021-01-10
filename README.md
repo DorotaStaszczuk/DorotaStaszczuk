@@ -1,8 +1,12 @@
 ## Hi there, I'm Dorota 👋  
 
+
+**My portfolio: https://dorotastaszczuk.github.io/**
+
+
 I'm a junior developer based in Warsaw, Poland. I graduated from two programming bootcamps and I continue to study on my own.
 
-- 🔭 I’m currently working on my portfolio https://dorotastaszczuk.github.io/ and looking for new career opportunities
+- 🔭 I’m currently working on my portfolio and looking for new career opportunities
 - 🌱 I’m planning to learn React and Vue in 2021 
 - ⚡ Fun fact: I am never bored
 
@@ -19,6 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <br/>
