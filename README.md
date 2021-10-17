@@ -7,7 +7,7 @@
 I'm a junior developer based in Warsaw, Poland. I graduated from two programming bootcamps and I continue to study on my own.
 
 - 🔭 I’m currently working on my portfolio and looking for new career opportunities
-- 🌱 I’m planning to learn React and Vue in 2021 
+- 🌱 I’m planning to start learning React in 2021 
 - ⚡ Fun fact: I am never bored
 
 <!--
