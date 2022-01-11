@@ -7,7 +7,7 @@
 I'm a junior developer based in Warsaw, Poland. I graduated from two programming bootcamps and I continue to study on my own.
 
 - 🔭 I’m currently looking for new career opportunities
-- 🌱 I’m currently learning canvas-sketch
+- 🌱 I’m currently learning [canvas-sketch](https://github.com/mattdesl/canvas-sketch)
 - ⚡ Fun fact: I am never bored
 
 <!--
