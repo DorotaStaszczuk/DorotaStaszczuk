@@ -1,35 +1,18 @@
 ## Hi there, I'm Dorota 👋  
 
+<br/>
 
-**My portfolio: https://dorotastaszczuk.github.io/**
+My portfolio: 
+**[dorotastaszczuk.github.io](https://dorotastaszczuk.github.io/)**
 
+<br/>
 
-I'm a junior developer based in Warsaw, Poland. I graduated from two programming bootcamps and I continue to study on my own.
+I'm a junior developer based in Warsaw, Poland.
 
 - 🔭 I’m currently looking for new career opportunities
 - 🌱 I’m currently learning [canvas-sketch](https://github.com/mattdesl/canvas-sketch)
 - ⚡ Fun fact: I am never bored
 
-<!--
-**DorotaStaszczuk/DorotaStaszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img align="left" alt="TypeScipt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
--->
-
-<br/>
 
 ### Languages and Tools
 
@@ -61,6 +44,24 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<!--
+**DorotaStaszczuk/DorotaStaszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<img align="left" alt="TypeScipt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+-->
 
 ### Github Stats  
 
