@@ -2,15 +2,9 @@
 
 <br/>
 
-My portfolio: 
-**[dorotastaszczuk.github.io](https://dorotastaszczuk.github.io/)**
-
-<br/>
-
 I'm a junior developer based in Warsaw, Poland.
 
-- 🔭 I’m currently looking for new career opportunities
-- 🌱 I’m currently learning [canvas-sketch](https://github.com/mattdesl/canvas-sketch)
+- 🌱 I’m currently improving my TypeScript and Angular skills
 - ⚡ Fun fact: I am never bored
 
 
@@ -46,6 +40,11 @@ I'm a junior developer based in Warsaw, Poland.
 <br/>
 <!--
 **DorotaStaszczuk/DorotaStaszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently looking for new career opportunities
+[canvas-sketch](https://github.com/mattdesl/canvas-sketch)
+
+My portfolio: 
+**[dorotastaszczuk.github.io](https://dorotastaszczuk.github.io/)**
 
 Here are some ideas to get you started:
 
