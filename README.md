@@ -2,7 +2,7 @@
 
 <br/>
 
-I'm a junior developer based in Warsaw, Poland.
+I'm a junior front-end developer from Warsaw, Poland.
 
 - 🌱 I’m currently improving my TypeScript and Angular skills
 - ⚡ Fun fact: I am never bored
@@ -37,6 +37,8 @@ I'm a junior developer based in Warsaw, Poland.
 <img align="left" width="28px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="Django" height="32px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />
+
+<img align="left" width="20px" alt="figma" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" />
 
 <img align="left" width="26px" alt="photoshop" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />
 
