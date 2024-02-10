@@ -33,8 +33,6 @@ I'm a front-end developer from Warsaw, Poland.
   * Prettier
   * Husky
 
-<br/>
-<br/>
 <!--
 **DorotaStaszczuk/DorotaStaszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently looking for new career opportunities
@@ -100,7 +98,7 @@ Here are some ideas to get you started:
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=dorotastaszczuk.dorotastaszczuk">
 
--->
+
 
 ### Github Stats  
 
@@ -115,7 +113,7 @@ Here are some ideas to get you started:
 <br />
 
 
-
+-->
 
 
 
