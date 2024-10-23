@@ -4,6 +4,8 @@
 
 I'm a front-end developer from Warsaw, Poland.
 
+🔭 I’m currently looking for new career opportunities
+
 
 ### Languages and Tools
 
