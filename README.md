@@ -117,6 +117,6 @@ Here are some ideas to get you started:
 
 -->
 
-
+<img align="left" alt="Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorotastaszczuk&layout=compact&langs_count=10"/> 
 
 
