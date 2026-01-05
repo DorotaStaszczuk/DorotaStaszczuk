@@ -20,14 +20,17 @@ I'm a front-end developer from Warsaw, Poland.
   * Sass/SCSS
   * Tailwind
   * Angular material
+  * PimeNG
+  * PrimeFlex
   * Jest
   * Storybook
   * Responsive Web Design
   * Git
-  * GitHub, GitLab
+  * GitHub, GitLab, Bitbucket
   * Visual Studio Code
   * Jira
   * Figma
+  * Jenkins
   * Apicurio
   * Swagger
   * Postman
@@ -114,9 +117,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
+<img align="left" alt="Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorotastaszczuk&layout=compact&langs_count=10"/> 
 -->
 
-<img align="left" alt="Github Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorotastaszczuk&layout=compact&langs_count=10"/> 
+
 
 
